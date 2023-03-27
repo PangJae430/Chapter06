@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading", "Overloading\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingParams", "UsingParams\UsingParams.csproj", "{C1E3584F-39C2-49A0-BB88-AA45462E2651}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalParameter", "OptionalParameter\OptionalParameter.csproj", "{4B4564AE-FD7E-4A8C-BA0E-C48D8D357AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalFunction", "LocalFunction\LocalFunction.csproj", "{CDAE5A6C-3AC9-489E-B9CC-500C8AAB5CB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{C1E3584F-39C2-49A0-BB88-AA45462E2651}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1E3584F-39C2-49A0-BB88-AA45462E2651}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1E3584F-39C2-49A0-BB88-AA45462E2651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4564AE-FD7E-4A8C-BA0E-C48D8D357AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4564AE-FD7E-4A8C-BA0E-C48D8D357AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4564AE-FD7E-4A8C-BA0E-C48D8D357AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4564AE-FD7E-4A8C-BA0E-C48D8D357AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAE5A6C-3AC9-489E-B9CC-500C8AAB5CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAE5A6C-3AC9-489E-B9CC-500C8AAB5CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAE5A6C-3AC9-489E-B9CC-500C8AAB5CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAE5A6C-3AC9-489E-B9CC-500C8AAB5CB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
